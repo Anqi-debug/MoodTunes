@@ -1,0 +1,7 @@
+{
+  "name": "MoodTunes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
